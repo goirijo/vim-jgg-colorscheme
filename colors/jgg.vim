@@ -70,7 +70,7 @@ hi PreProc guifg=#8fd8dc guibg=NONE guisp=NONE gui=NONE ctermfg=116 ctermbg=NONE
 "hi EnumerationName -- no settings --
 hi Visual guifg=NONE guibg=#404040 guisp=#404040 gui=NONE ctermfg=NONE ctermbg=238 cterm=NONE
 "hi MoreMsg -- no settings --
-hi SpellCap guifg=#808080 guibg=NONE guisp=NONE gui=underline ctermfg=8 ctermbg=NONE cterm=underline
+hi SpellCap guifg=#b3b3b3 guibg=NONE guisp=NONE gui=underline ctermfg=249 ctermbg=NONE cterm=underline
 hi VertSplit guifg=NONE guibg=#181818 guisp=#181818 gui=italic ctermfg=NONE ctermbg=234 cterm=NONE
 hi Exception guifg=#ff8664 guibg=NONE guisp=NONE gui=NONE ctermfg=209 ctermbg=NONE cterm=NONE
 hi Keyword guifg=#ff8664 guibg=NONE guisp=NONE gui=bold ctermfg=209 ctermbg=NONE cterm=bold
