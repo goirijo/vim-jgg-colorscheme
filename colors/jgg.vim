@@ -109,4 +109,4 @@ hi rubycontrol guifg=#75b2c6 guibg=NONE guisp=NONE gui=NONE ctermfg=116 ctermbg=
 hi rubyidentifier guifg=#b6bffe guibg=NONE guisp=NONE gui=NONE ctermfg=147 ctermbg=NONE cterm=NONE
 "hi clear -- no settings --
 
-hi separator guifg=#000000 guibg=NONE guisp=NONE gui=bold ctermfg=000000 ctermbg=NONE cterm=bold
+hi separator guifg=#000000 guibg=NONE guisp=NONE gui=bold ctermfg=white ctermbg=NONE cterm=bold
