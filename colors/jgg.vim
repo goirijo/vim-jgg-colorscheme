@@ -110,3 +110,7 @@ hi rubyidentifier guifg=#b6bffe guibg=NONE guisp=NONE gui=NONE ctermfg=147 cterm
 "hi clear -- no settings --
 
 hi separator guifg=#000000 guibg=NONE guisp=NONE gui=bold ctermfg=white ctermbg=NONE cterm=bold
+
+"Make our own groups here. If this REALLY grows then make a syntax file that
+"works
+match separator /\/\/\*\*\*\**\/\//
