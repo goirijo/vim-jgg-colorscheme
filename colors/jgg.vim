@@ -113,4 +113,4 @@ hi separator guifg=#000000 guibg=NONE guisp=NONE gui=bold ctermfg=white ctermbg=
 
 "Make our own groups here. If this REALLY grows then make a syntax file that
 "works
-match separator /\/\/\*\*\*\**\/\//
+match separator /\/\/\*\*\*\*\*\*\*\*\*\**.*\**\*\*\*\*\*\*\*\*\*\/\//
