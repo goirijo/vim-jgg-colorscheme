@@ -106,7 +106,7 @@ hi rubyclass guifg=#449399 guibg=NONE guisp=NONE gui=NONE ctermfg=73 ctermbg=NON
 hi rubyregexp guifg=#dd00dd guibg=NONE guisp=NONE gui=NONE ctermfg=164 ctermbg=NONE cterm=NONE
 hi rubysymbol guifg=#76b8d6 guibg=NONE guisp=NONE gui=NONE ctermfg=110 ctermbg=NONE cterm=NONE
 hi rubycontrol guifg=#75b2c6 guibg=NONE guisp=NONE gui=NONE ctermfg=116 ctermbg=NONE cterm=NONE
-hi rubyidentifier guifg=#b6bffe guibg=NONE guisp=NONE gui=NONE ctermfg=147 ctermbg=NONE cterm=NONE
+hi rubyidentifier guifg=#b6bffe guibg=NONE guisp=NONE gui=bold ctermfg=147 ctermbg=NONE cterm=bold
 "hi clear -- no settings --
 
 hi separator guifg=#000000 guibg=NONE guisp=NONE gui=bold ctermfg=white ctermbg=NONE cterm=bold
